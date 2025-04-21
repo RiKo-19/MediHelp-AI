@@ -18,7 +18,7 @@ load_dotenv()
 PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_NAMESPACE = "medibot"
-CHAT_SESSIONS_PATH = "chat_sessions"
+CHAT_SESSIONS_PATH = "Chat_Sessions"
 os.makedirs(CHAT_SESSIONS_PATH, exist_ok=True)
 
 @st.cache_resource
