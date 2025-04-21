@@ -33,29 +33,30 @@ VS Code
 Streamlit
 
 ## Books Used
-Gray's Anatomy (41st Edition)
+We used many books to create our database -
+1. Gray's Anatomy (41st Edition)
 
-Nelson Essentials of Pediatrics
+2. Nelson Essentials of Pediatrics
 
-Williams Obstetrics (26th Edition)
+3. Williams Obstetrics (26th Edition)
 
-Artificial Intelligence in Healthcare
+4. Artificial Intelligence in Healthcare
 
-27th Bailey & Love’s Short Practice of Surgery
+5. 27th Bailey & Love’s Short Practice of Surgery
 
-Basic Immunology: Functions and Disorders of the Immune System
+6. Basic Immunology: Functions and Disorders of the Immune System
 
-Current Medical Diagnosis and Treatment 2018, 57th Edition
+7. Current Medical Diagnosis and Treatment 2018, 57th Edition
 
-Deep Medicine: Intro and AI Health Care Excerpt
+8. Deep Medicine: Intro and AI Health Care Excerpt
 
-Harrison’s Principles of Internal Medicine, 21st Edition (Vol. 1 & 2)
+9. Harrison’s Principles of Internal Medicine, 21st Edition (Vol. 1 & 2)
 
-Kaplan & Sadock’s Synopsis of Psychiatry (2021)
+10. Kaplan & Sadock’s Synopsis of Psychiatry (2021)
 
-Goodman & Gilman’s The Pharmacological Basis of Therapeutics (11th Edition)
+11. Goodman & Gilman’s The Pharmacological Basis of Therapeutics (11th Edition)
 
-Guyton and Hall Textbook of Medical Physiology (14th Edition)
+12. Guyton and Hall Textbook of Medical Physiology (14th Edition)
 
 And many more books..........
 
