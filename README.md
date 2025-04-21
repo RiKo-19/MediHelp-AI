@@ -65,3 +65,15 @@ We are committed to continuously improving our chatbot’s performance by adding
 
 ## *Note
 For some restrictions we can't upload the files of the books so we hope you create your own database using these books or your preferred books. And also you should create a .env file containing your "PINECONE_INDEX_NAME", "PINECONE_API_KEY" and "HF_TOKEN".
+
+## Contributors
+
+This project was built with dedication by:
+
+*Ritam Koley*
+
+*Krishnagopal Jay*
+
+*Jit Mandal* 
+
+*Anwesha Das*
