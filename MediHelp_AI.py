@@ -260,7 +260,8 @@ def main():
                     "chat_history": history_pairs[-5:]
                 })
 
-                result = format_numbered_list(response["answer"])
+                # result = format_numbered_list(response["answer"])
+                result = response["answer"]
                 source_documents = response["source_documents"]
                 formatted_sources = "\n\n".join([
                     f"- Source: {doc.metadata.get('source', 'Unknown')} | Title: {doc.metadata.get('title', 'N/A')} \n*Page Content*: {doc.page_content}"
