@@ -64,7 +64,7 @@ And many more books..........
 We are committed to continuously improving our chatbot’s performance by adding more medical books in the database.
 
 ## *Note
-For some restrictions we can't upload the files of the books so we hope you create your own database using these books or your preferred books. And also you should create a .env file containing your "PINECONE_INDEX_NAME", "PINECONE_API_KEY" and "HF_TOKEN".
+For some restrictions we can't upload the files of the books so we hope you create your own database using these books or your preferred books. And also you have to create a .env file containing your "PINECONE_INDEX_NAME", "PINECONE_API_KEY" and "HF_TOKEN".
 
 ## Contributors
 
