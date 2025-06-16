@@ -65,7 +65,8 @@ For some restrictions we can't upload the files of the books so we hope you crea
 
 ## 🖥️ User Interface
 
-![Image](https://github.com/user-attachments/assets/4338230b-8426-4f66-9155-92faa850f0e3)
+![image](https://github.com/user-attachments/assets/5aef60e7-8454-4386-9d42-9bbf6349a502)
+
 
 ---
 
